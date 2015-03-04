@@ -1,3 +1,3 @@
-do fill = (item = 'Mässan för elektronik och inbyggda system') ->
+do fill = (item = 'The most creative minds in Art') ->
   $('.tagline').append "#{item}"
 fill
