@@ -77,7 +77,7 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('The most creative minds in Art');
+})('Mässan för elektronik och inbyggda system');
 
 fill;
 
