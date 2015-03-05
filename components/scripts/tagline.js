@@ -4,6 +4,6 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('Mässan för elektronik och inbyggda system');
+})('The most creative minds in Art');
 
 fill;
